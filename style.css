@@ -1,5 +1,5 @@
 p {
-  color: salmon;
+  color: #ffc0b4;
 }
 
 .kotak {
@@ -10,4 +10,8 @@ p {
   text-align: center;
   line-height: 250px;
   margin: 50px auto;
+}
+
+body {
+  background-color: #034c52;
 }
