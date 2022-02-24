@@ -1,0 +1,13 @@
+p {
+  color: salmon;
+}
+
+.kotak {
+  width: 250px;
+  height: 250px;
+  background-color: salmon;
+  color: white;
+  text-align: center;
+  line-height: 250px;
+  margin: 50px auto;
+}
